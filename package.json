@@ -1,5 +1,5 @@
 {
-  "homepage": "https://glarunsingh.github.io/glarunsingh",
+  "homepage": "https://glarunsingh.github.io/portfolio",
   "name": "elegant-portfolio",
   "version": "1.0.0",
   "private": true,
@@ -8,9 +8,9 @@
   "keywords": [
     "gatsby"
   ],
-  "scripts": {
+  "scripts": {  
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",

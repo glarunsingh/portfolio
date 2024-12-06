@@ -3,6 +3,7 @@
  */
 
 module.exports = {
+  pathPrefix: "/portfolio",
   siteMetadata: {
     title: `Portfolio`,
     description: `This a sample portfolio website.`,
