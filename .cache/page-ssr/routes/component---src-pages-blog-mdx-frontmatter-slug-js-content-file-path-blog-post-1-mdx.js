@@ -1,30 +1,56 @@
 "use strict";
-exports.id = 735;
-exports.ids = [735];
+exports.id = "component---src-pages-blog-mdx-frontmatter-slug-js-content-file-path-blog-post-1-mdx";
+exports.ids = ["component---src-pages-blog-mdx-frontmatter-slug-js-content-file-path-blog-post-1-mdx"];
 exports.modules = {
 
-/***/ 2545:
+/***/ "./blog/post-1.mdx":
+/*!*************************!*\
+  !*** ./blog/post-1.mdx ***!
+  \*************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-// ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/react */ "./node_modules/@mdx-js/react/lib/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/*@jsxRuntime classic @jsx React.createElement @jsxFrag React.Fragment*/
 
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  Head: () => (/* binding */ Head),
-  "default": () => (/* binding */ GatsbyMDXWrapper)
-});
 
-// EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
-var lib = __webpack_require__(8453);
-// EXTERNAL MODULE: external "C:\\Users\\JANU\\OneDrive\\Documents\\GitHub\\portfolio\\node_modules\\react\\index.js"
-var external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_ = __webpack_require__(6528);
-var external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default = /*#__PURE__*/__webpack_require__.n(external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_);
-;// ./blog/post-1.mdx
-/*@jsxRuntime classic @jsx React.createElement @jsxFrag React.Fragment*/function _createMdxContent(props){const _components=Object.assign({p:"p",br:"br"},(0,lib/* useMDXComponents */.RP)(),props.components);return/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_components.p,null,"Blog post n°1. Write your post using Markdown syntax.\r\n",/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_components.br),"\n",/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_components.br),"\n","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum, mi vel volutpat pellentesque, mi tortor pharetra enim, sit amet efficitur dui justo eu nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus facilisis purus justo, ac pellentesque quam interdum eget. Quisque vitae vehicula orci. Vivamus at eros vestibulum sem fringilla congue. Cras nec quam euismod, convallis sapien sit amet, commodo ligula. Etiam convallis dui quis finibus ultrices. Sed convallis lorem ac lorem consequat, sed fermentum velit dapibus. Pellentesque in orci eu risus sodales faucibus. Praesent et mollis mauris, vel elementum ligula.\r\n",/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_components.br),"\n",/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_components.br),"\n","Maecenas volutpat tristique purus, nec hendrerit nibh. Vestibulum suscipit ipsum felis, at hendrerit mi venenatis a. In hac habitasse platea dictumst. Nulla velit dui, placerat a consectetur non, ultricies non quam. Aliquam erat volutpat. Donec massa velit, interdum ut posuere et, commodo vel diam. Ut laoreet dolor eget quam tristique fermentum. Praesent vehicula ornare nulla, non efficitur mi efficitur vitae.\r\n",/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_components.br),"\n",/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_components.br),"\n","Cras mattis justo non orci gravida, ut lacinia dolor vestibulum. Donec non dui vitae nunc imperdiet pretium. Donec vel eros nec ligula tristique vestibulum eget a erat. Cras ullamcorper lacinia leo, non gravida nibh ultrices id. Praesent elementum felis at magna mattis, non sagittis augue elementum. Duis at nibh nisl. Duis aliquam in dolor et facilisis. Nunc molestie purus et sagittis bibendum. In at metus non elit rhoncus rhoncus.");}function MDXContent(props={}){const{wrapper:MDXLayout}=Object.assign({},(0,lib/* useMDXComponents */.RP)(),props.components);return MDXLayout?/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(MDXLayout,props,/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_default().createElement(_createMdxContent,props)):_createMdxContent(props);}/* harmony default export */ const post_1 = (MDXContent);
-// EXTERNAL MODULE: ./src/components/seo.js + 1 modules
-var seo = __webpack_require__(6314);
-;// ./src/pages/blog/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/JANU/OneDrive/Documents/GitHub/portfolio/blog/post-1.mdx
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    br: "br"
+  }, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__.useMDXComponents)(), props.components);
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components.p, null, "Blog post n°1. Write your post using Markdown syntax.\r\n", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components.br), "\n", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components.br), "\n", "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum, mi vel volutpat pellentesque, mi tortor pharetra enim, sit amet efficitur dui justo eu nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus facilisis purus justo, ac pellentesque quam interdum eget. Quisque vitae vehicula orci. Vivamus at eros vestibulum sem fringilla congue. Cras nec quam euismod, convallis sapien sit amet, commodo ligula. Etiam convallis dui quis finibus ultrices. Sed convallis lorem ac lorem consequat, sed fermentum velit dapibus. Pellentesque in orci eu risus sodales faucibus. Praesent et mollis mauris, vel elementum ligula.\r\n", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components.br), "\n", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components.br), "\n", "Maecenas volutpat tristique purus, nec hendrerit nibh. Vestibulum suscipit ipsum felis, at hendrerit mi venenatis a. In hac habitasse platea dictumst. Nulla velit dui, placerat a consectetur non, ultricies non quam. Aliquam erat volutpat. Donec massa velit, interdum ut posuere et, commodo vel diam. Ut laoreet dolor eget quam tristique fermentum. Praesent vehicula ornare nulla, non efficitur mi efficitur vitae.\r\n", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components.br), "\n", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components.br), "\n", "Cras mattis justo non orci gravida, ut lacinia dolor vestibulum. Donec non dui vitae nunc imperdiet pretium. Donec vel eros nec ligula tristique vestibulum eget a erat. Cras ullamcorper lacinia leo, non gravida nibh ultrices id. Praesent elementum felis at magna mattis, non sagittis augue elementum. Duis at nibh nisl. Duis aliquam in dolor et facilisis. Nunc molestie purus et sagittis bibendum. In at metus non elit rhoncus rhoncus.");
+}
+function MDXContent(props = {}) {
+  const {
+    wrapper: MDXLayout
+  } = Object.assign({}, (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__.useMDXComponents)(), props.components);
+  return MDXLayout ? /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(MDXLayout, props, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_createMdxContent, props)) : _createMdxContent(props);
+}
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (MDXContent);
+
+/***/ }),
+
+/***/ "./src/pages/blog/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/JANU/OneDrive/Documents/GitHub/portfolio/blog/post-1.mdx&export=default":
+/*!******************************************************************************************************************************************************!*\
+  !*** ./src/pages/blog/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/JANU/OneDrive/Documents/GitHub/portfolio/blog/post-1.mdx&export=default ***!
+  \******************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Head: () => (/* binding */ Head),
+/* harmony export */   "default": () => (/* binding */ GatsbyMDXWrapper)
+/* harmony export */ });
+/* harmony import */ var C_Users_JANU_OneDrive_Documents_GitHub_portfolio_blog_post_1_mdx__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./blog/post-1.mdx */ "./blog/post-1.mdx");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _components_seo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../components/seo */ "./src/components/seo.js");
 
 
 
@@ -32,55 +58,100 @@ const BlogPost = ({
   data,
   children
 }) => {
-  return /*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement("div", null, /*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement("h1", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("h1", {
     className: "text-3xl font-bold mb-2"
-  }, data.mdx.frontmatter.title), /*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement("p", {
+  }, data.mdx.frontmatter.title), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", {
     className: "mb-4"
   }, data.mdx.frontmatter.date), children);
 };
 const query = "3665917307";
 const Head = ({
   data
-}) => /*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement(seo/* default */.A, {
+}) => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(_components_seo__WEBPACK_IMPORTED_MODULE_2__["default"], {
   title: data.mdx.frontmatter.title,
   description: data.mdx.frontmatter.description,
   pathname: `/blog/${data.mdx.frontmatter.slug}`
 });
 BlogPost;
 function GatsbyMDXWrapper(props) {
-  return /*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement(BlogPost, props, /*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement(post_1, props));
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(BlogPost, props, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement(C_Users_JANU_OneDrive_Documents_GitHub_portfolio_blog_post_1_mdx__WEBPACK_IMPORTED_MODULE_0__["default"], props));
 }
 
 /***/ }),
 
-/***/ 6314:
+/***/ "./src/components/seo.js":
+/*!*******************************!*\
+  !*** ./src/components/seo.js ***!
+  \*******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _hooks_use_site_metadata__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../hooks/use-site-metadata */ "./src/hooks/use-site-metadata.jsx");
 
-// EXPORTS
-__webpack_require__.d(__webpack_exports__, {
-  A: () => (/* binding */ seo)
-});
 
-// EXTERNAL MODULE: external "C:\\Users\\JANU\\OneDrive\\Documents\\GitHub\\portfolio\\node_modules\\react\\index.js"
-var external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_ = __webpack_require__(6528);
-// EXTERNAL MODULE: ./.cache/gatsby-browser-entry.js + 11 modules
-var gatsby_browser_entry = __webpack_require__(123);
-;// ./src/hooks/use-site-metadata.jsx
-const useSiteMetadata=()=>{const data=(0,gatsby_browser_entry.useStaticQuery)("3764592887");return data.site.siteMetadata;};
-;// ./src/components/seo.js
-const Seo=({title,description,pathname,children})=>{const{title:siteTitle,description:siteDescription,siteUrl}=useSiteMetadata();const seo={title:title,description:description||siteDescription,url:`${siteUrl}${pathname||``}`};return/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement(external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.Fragment,null,/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement("title",null,seo.title," | ",siteTitle),/*#__PURE__*/external_C_Users_JANU_OneDrive_Documents_GitHub_portfolio_node_modules_react_index_js_.createElement("meta",{name:"description",content:seo.description}),children);};/* harmony default export */ const seo = (Seo);
+const Seo = ({
+  title,
+  description,
+  pathname,
+  children
+}) => {
+  const {
+    title: siteTitle,
+    description: siteDescription,
+    siteUrl
+  } = (0,_hooks_use_site_metadata__WEBPACK_IMPORTED_MODULE_1__.useSiteMetadata)();
+  const seo = {
+    title: title,
+    description: description || siteDescription,
+    url: `${siteUrl}${pathname || ``}`
+  };
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("title", null, seo.title, " | ", siteTitle), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("meta", {
+    name: "description",
+    content: seo.description
+  }), children);
+};
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Seo);
 
 /***/ }),
 
-/***/ 8453:
+/***/ "./src/hooks/use-site-metadata.jsx":
+/*!*****************************************!*\
+  !*** ./src/hooks/use-site-metadata.jsx ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   useSiteMetadata: () => (/* binding */ useSiteMetadata)
+/* harmony export */ });
+/* harmony import */ var _public_page_data_sq_d_3764592887_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../public/page-data/sq/d/3764592887.json */ "./public/page-data/sq/d/3764592887.json");
+
+const useSiteMetadata = () => {
+  const data = _public_page_data_sq_d_3764592887_json__WEBPACK_IMPORTED_MODULE_0__.data;
+  return data.site.siteMetadata;
+};
+
+/***/ }),
+
+/***/ "./node_modules/@mdx-js/react/lib/index.js":
+/*!*************************************************!*\
+  !*** ./node_modules/@mdx-js/react/lib/index.js ***!
+  \*************************************************/
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
+__webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   RP: () => (/* binding */ useMDXComponents)
+/* harmony export */   MDXContext: () => (/* binding */ MDXContext),
+/* harmony export */   MDXProvider: () => (/* binding */ MDXProvider),
+/* harmony export */   useMDXComponents: () => (/* binding */ useMDXComponents),
+/* harmony export */   withMDXComponents: () => (/* binding */ withMDXComponents)
 /* harmony export */ });
-/* unused harmony exports MDXContext, withMDXComponents, MDXProvider */
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6528);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /**
  * @typedef {import('react').ReactNode} ReactNode
  * @typedef {import('mdx/types.js').MDXComponents} Components
@@ -134,7 +205,7 @@ function withMDXComponents(Component) {
    */
   function boundMDXComponent(props) {
     const allComponents = useMDXComponents(props.components)
-    return React.createElement(Component, {...props, allComponents})
+    return react__WEBPACK_IMPORTED_MODULE_0__.createElement(Component, {...props, allComponents})
   }
 }
 
@@ -183,13 +254,23 @@ function MDXProvider({components, children, disableParentContext}) {
     allComponents = useMDXComponents(components)
   }
 
-  return React.createElement(
+  return react__WEBPACK_IMPORTED_MODULE_0__.createElement(
     MDXContext.Provider,
     {value: allComponents},
     children
   )
 }
 
+
+/***/ }),
+
+/***/ "./public/page-data/sq/d/3764592887.json":
+/*!***********************************************!*\
+  !*** ./public/page-data/sq/d/3764592887.json ***!
+  \***********************************************/
+/***/ ((module) => {
+
+module.exports = /*#__PURE__*/JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Portfolio","description":"This a sample portfolio website.","siteUrl":"https://www.yourdomain.tld"}}}}');
 
 /***/ })
 
